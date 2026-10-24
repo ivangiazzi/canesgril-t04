@@ -1,0 +1,6 @@
+SECRET_KEY=django-insecure-ui1d1mx!$p7r4i+_%c+=6%@@9@ngmf67jqwr^ucbqrdz4oe+7
+DEBUG=True
+DATABASE_URL
+CLOUD_NAME
+API_KEY
+API_SECRET
